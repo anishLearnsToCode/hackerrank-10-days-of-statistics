@@ -1,8 +1,8 @@
 # HackerRank 10 Days of Statistics
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/30-1f425f.svg)
-![problems-solved-java](https://img.shields.io/badge/Java-30/30-008000.svg)
-![problems-solved-python](https://img.shields.io/badge/Python-29/29-008000.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/26-1f425f.svg)
+![problems-solved-java](https://img.shields.io/badge/Java-0/26-008000.svg)
+![problems-solved-python](https://img.shields.io/badge/Python-0/26-008000.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 [![profile](https://img.shields.io/badge/also%20see-My%20Hackerrank%20Profile-1f72ff.svg)](https://www.hackerrank.com/anishviewer)
