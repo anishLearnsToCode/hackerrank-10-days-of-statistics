@@ -18,9 +18,9 @@
 | [Day 2: Basic Probability](https://www.hackerrank.com/challenges/s10-mcq-1) | Easy | 30 | [![md](https://img.icons8.com/office/35/000000/markdown.png)](md/day-2-basic-probability.md) |
 | [Day 2: More Dice](https://www.hackerrank.com/challenges/s10-mcq-2) | Easy | 30 | [![md](https://img.icons8.com/office/35/000000/markdown.png)](md/day-2-more-dice.md) |
 | [Day 2: Compound Event Probability](https://www.hackerrank.com/challenges/s10-mcq-3) | Easy | 30 | [![md](https://img.icons8.com/office/35/000000/markdown.png)](md/day-2-compound-event-probability.md) |
-| [Day 3: Conditional Probability]() | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day1C.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_1c.py) |
-| [Day 3: Cards of the Same Suit]() | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day1C.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_1c.py) |
-| [Day 4: Binomial Distribution I]() | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day1C.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_1c.py) |
+| [Day 3: Conditional Probability](https://www.hackerrank.com/challenges/s10-mcq-4) | Easy | 30 | [![md](https://img.icons8.com/office/35/000000/markdown.png)](md/day-3-conditional-probability.md) |
+| [Day 3: Cards of the Same Suit](https://www.hackerrank.com/challenges/s10-mcq-5) | Easy | 30 | [![md](https://img.icons8.com/office/35/000000/markdown.png)](md/day-3-cards-of-the-same-suit.md) |
+| [Day 4: Binomial Distribution I](https://www.hackerrank.com/challenges/s10-mcq-6) | Easy | 30 | [![md](https://img.icons8.com/office/35/000000/markdown.png)](md/day-3-drawing-marbles.md) |
 | [Day 4: Binomial Distribution II]() | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day1C.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_1c.py) |
 | [Day 4: Geometric Distribution I]() | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day1C.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_1c.py) |
 | [Day 4: Geometric Distribution II]() | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day1C.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_1c.py) |
