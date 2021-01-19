@@ -1,0 +1,42 @@
+public class Day5C {
+    public static void main(String[] args) {
+        int mu = 20, sigma = 2;
+        // Less Than 19.5 Hours
+        System.out.println(round(cdf(19.5, mu, sigma)));
+
+        // Between 20 and 22 Hours
+        double result = cdf(22, mu, sigma) - cdf(20, mu, sigma);
+        System.out.println(round(result));
+    }
+
+    private static double round(double value) {
+        return (double) Math.round(value * 1_000) / 1_000;
+    }
+
+    // return pdf(x) = standard Gaussian pdf
+    public static double pdf(double x) {
+        return Math.exp(-x * x / 2) / Math.sqrt(2 * Math.PI);
+    }
+
+    // return pdf(x, mu, signma) = Gaussian pdf with mean mu and stddev sigma
+    public static double pdf(double x, double mu, double sigma) {
+        return pdf((x - mu) / sigma) / sigma;
+    }
+
+    // return cdf(z) = standard Gaussian cdf using Taylor approximation
+    public static double cdf(double z) {
+        if (z < -8.0) return 0.0;
+        if (z >  8.0) return 1.0;
+        double sum = 0.0, term = z;
+        for (int i = 3; sum + term != sum; i += 2) {
+            sum  = sum + term;
+            term = term * z * z / i;
+        }
+        return 0.5 + sum * pdf(z);
+    }
+
+    // return cdf(z, mu, sigma) = Gaussian cdf with mean mu and stddev sigma
+    public static double cdf(double z, double mu, double sigma) {
+        return cdf((z - mu) / sigma);
+    }
+}

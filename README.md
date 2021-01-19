@@ -1,8 +1,8 @@
 # HackerRank 10 Days of Statistics
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-11/26-1f425f.svg)
-![problems-solved-java](https://img.shields.io/badge/Java-5/20-008000.svg)
-![problems-solved-python](https://img.shields.io/badge/Python-5/20-008000.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-18/25-1f425f.svg)
+![problems-solved-java](https://img.shields.io/badge/Java-12/19-008000.svg)
+![problems-solved-python](https://img.shields.io/badge/Python-12/19-008000.svg)
 ![problems-solved-mcq](https://img.shields.io/badge/MCQ's-6/6-008000.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
@@ -20,14 +20,15 @@
 | [Day 2: Compound Event Probability](https://www.hackerrank.com/challenges/s10-mcq-3) | Easy | 30 | [![md](https://img.icons8.com/office/35/000000/markdown.png)](md/day-2-compound-event-probability.md) |
 | [Day 3: Conditional Probability](https://www.hackerrank.com/challenges/s10-mcq-4) | Easy | 30 | [![md](https://img.icons8.com/office/35/000000/markdown.png)](md/day-3-conditional-probability.md) |
 | [Day 3: Cards of the Same Suit](https://www.hackerrank.com/challenges/s10-mcq-5) | Easy | 30 | [![md](https://img.icons8.com/office/35/000000/markdown.png)](md/day-3-cards-of-the-same-suit.md) |
-| [Day 4: Binomial Distribution I](https://www.hackerrank.com/challenges/s10-mcq-6) | Easy | 30 | [![md](https://img.icons8.com/office/35/000000/markdown.png)](md/day-3-drawing-marbles.md) |
-| [Day 4: Binomial Distribution II]() | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day1C.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_1c.py) |
-| [Day 4: Geometric Distribution I]() | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day1C.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_1c.py) |
-| [Day 4: Geometric Distribution II]() | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day1C.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_1c.py) |
-| [Day 5: Poisson Distribution I]() | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day1C.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_1c.py) |
-| [Day 5: Poisson Distribution II]() | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day1C.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_1c.py) |
-| [Day 5: Normal Distribution I]() | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day1C.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_1c.py) |
-| [Day 5: Normal Distribution II]() | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day1C.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_1c.py) |
+| [Day 3: Drawing Marbles](https://www.hackerrank.com/challenges/s10-mcq-6) | Easy | 30 | [![md](https://img.icons8.com/office/35/000000/markdown.png)](md/day-3-drawing-marbles.md) |
+| [Day 4: Binomial Distribution I](https://www.hackerrank.com/challenges/s10-binomial-distribution-2) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day4A.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_4a.py) |
+| [Day 4: Binomial Distribution II](https://www.hackerrank.com/challenges/s10-binomial-distribution-2) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day4B.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_4b.py) |
+| [Day 4: Geometric Distribution I](https://www.hackerrank.com/challenges/s10-geometric-distribution-1) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day4C.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_4c.py) |
+| [Day 4: Geometric Distribution II](https://www.hackerrank.com/challenges/s10-geometric-distribution-2) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day4D.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_4d.py) |
+| [Day 5: Poisson Distribution I](https://www.hackerrank.com/challenges/s10-poisson-distribution-1) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day5A.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_5a.py) |
+| [Day 5: Poisson Distribution II](https://www.hackerrank.com/challenges/s10-poisson-distribution-2) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day5B.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_5b.py) |
+| [Day 5: Normal Distribution I](https://www.hackerrank.com/challenges/s10-normal-distribution-1) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day5C.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_5c.py) |
+| [Day 5: Normal Distribution II](https://www.hackerrank.com/challenges/s10-normal-distribution-2) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day5D.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_5d.py) |
 | [Day 6: The Center Limit Theorem I]() | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day1C.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_1c.py) |
 | [Day 6: The Center Limit Theorem II]() | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day1C.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_1c.py) |
 | [Day 6: The Center Limit Theorem III]() | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day1C.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_1c.py) |
