@@ -1,9 +1,9 @@
 # HackerRank 10 Days of Statistics
 
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-22/27-1f425f.svg)
-![problems-solved-java](https://img.shields.io/badge/Java-21/21-008000.svg)
-![problems-solved-python](https://img.shields.io/badge/Python-21/21-008000.svg)
-![problems-solved-mcq](https://img.shields.io/badge/MCQ's-6/6-008000.svg)
+![problems-solved-java](https://img.shields.io/badge/Java-20/20-008000.svg)
+![problems-solved-python](https://img.shields.io/badge/Python-20/20-008000.svg)
+![problems-solved-mcq](https://img.shields.io/badge/MCQ's-7/7-008000.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 [![profile](https://img.shields.io/badge/also%20see-My%20Hackerrank%20Profile-1f72ff.svg)](https://www.hackerrank.com/anishviewer)
@@ -32,8 +32,8 @@
 | [Day 6: The Center Limit Theorem I](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-1) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day6A.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_6a.py) |
 | [Day 6: The Center Limit Theorem II](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-2) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day6B.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_6b.py) |
 | [Day 6: The Center Limit Theorem III](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day6C.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_6c.py) |
-| [Day 7: Pearson Correlation Coefficient I]() | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day7A.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_7a.py) |
-| [Day 7: Spearman's Rank Correlation Coefficient]() | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day7B.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_7b.py) |
+| [Day 7: Pearson Correlation Coefficient I](https://www.hackerrank.com/challenges/s10-pearson-correlation-coefficient) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day7A.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_7a.py) |
+| [Day 7: Spearman's Rank Correlation Coefficient](https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day7B.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_7b.py) |
 | [Day 8: Least Square Regression Line](https://www.hackerrank.com/challenges/s10-least-square-regression-line) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day8A.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_8a.py) |
-| [Day 8: Pearson Correlation Coefficient II](https://www.hackerrank.com/challenges/s10-mcq-7) | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day8B.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_8b.py) |
+| [Day 8: Pearson Correlation Coefficient II](https://www.hackerrank.com/challenges/s10-mcq-7) | Easy | 30 | [![md](https://img.icons8.com/office/35/000000/markdown.png)](md/day-8-pearson-correlation-coefficient-II.md) |
 | [Day 9: Multiple Linear Regression]() | Easy | 30 | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/Day9A.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/day_9a.py) |
