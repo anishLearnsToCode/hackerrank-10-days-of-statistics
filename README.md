@@ -1,6 +1,6 @@
 # HackerRank 10 Days of Statistics
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-22/27-1f425f.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-27/27-1f425f.svg)
 ![problems-solved-java](https://img.shields.io/badge/Java-20/20-008000.svg)
 ![problems-solved-python](https://img.shields.io/badge/Python-20/20-008000.svg)
 ![problems-solved-mcq](https://img.shields.io/badge/MCQ's-7/7-008000.svg)
